@@ -20,6 +20,10 @@ set hidden
 
 set ignorecase
 set smartcase
+set tabstop=4
+set shiftwidth=4
+# tab inserts spaces
+# set expandtab
 
 set incsearch
 set noerrorbells visualbell t_vb=
